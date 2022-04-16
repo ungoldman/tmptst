@@ -1,6 +1,10 @@
-# THE TMPTST
+# tmptst
 
 > by Wllm Shkspr
+
+Testing what github pages does when you publish with nothing but a readme.
+
+The answer... [might surprise you](https://ungoldman.github.io/tmptst)!
 
 <details>
   <summary><strong>Table of Contents</strong></summary>
